@@ -1,0 +1,1 @@
+Backend README: configure SQL Server connection via environment variables or edit db.js placeholders. Run npm install then node index.js.
